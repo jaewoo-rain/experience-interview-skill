@@ -1,3 +1,5 @@
+**한국어** · [English](./README.en.md)
+
 # 경험 인터뷰 (experience-interview)
 
 "쓸 만한 경험이 없다"는 사람에게서 실제 사건을 끌어내, **면접에서 재현 가능한 형태**로 기록하는 Claude Code 스킬.
@@ -125,8 +127,4 @@ MIT — 양재우 (Jaewoo Yang)
 
 ---
 
-### In short (English)
-
-A Claude Code skill that **interviews you** to surface real experiences for résumés and cover letters, instead of writing them for you. Question wording and prohibition rules are drawn from interview and memory research — cognitive interviewing, the critical incident technique, behavioral event interviews, life-story interviews, laddering, repertory grids, cognitive pretesting, motivational interviewing, and the leading-question literature — with sources and verification status attached to every claim.
-
-Its premise: probing does not detect exaggeration (interviewers score ~54% at detecting deception, and probing has been shown to *increase* faking). So the goal is not lie detection but **rewriting statements into a form that can be verified in an interview**. Korean-language prompts; the underlying method is language-independent.
+영문 설명은 [README.en.md](./README.en.md)에 있다.

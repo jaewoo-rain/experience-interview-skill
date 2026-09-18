@@ -67,12 +67,12 @@
 
 **Claude Code — 모든 프로젝트에서 사용**
 ```bash
-git clone https://github.com/OWNER/REPO.git ~/.claude/skills/experience-interview
+git clone https://github.com/jaewoo-rain/experience-interview-skill.git ~/.claude/skills/experience-interview
 ```
 
 **특정 프로젝트에서만 사용**
 ```bash
-git clone https://github.com/OWNER/REPO.git <프로젝트>/.claude/skills/experience-interview
+git clone https://github.com/jaewoo-rain/experience-interview-skill.git <프로젝트>/.claude/skills/experience-interview
 ```
 
 **Codex 등 다른 에이전트**
